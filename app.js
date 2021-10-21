@@ -1,6 +1,5 @@
 const express = require("express");
 const path = require("path");
-clear;
 const config = require("config");
 const mongoose = require("mongoose");
 
