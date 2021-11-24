@@ -1,6 +1,6 @@
 {
     "PORT": 5000,
-    "MONGO_URI": "mongodb+srv://admin:admin@cluster0.bnubh.mongodb.net/mernCourse?retryWrites=true&w=majority",
+    "MONGO_URI": "URL",
     "JWT_SECRET": "xjoq3458nyi8rtxzmo3k4tm8x2",
     "BASE_URL": "http://localhost:5000"
 }
